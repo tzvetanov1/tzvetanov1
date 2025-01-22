@@ -20,6 +20,12 @@
 
 <h2>🌱 My Certifications</h2>
 
+- [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FQZ2PXJEDD.pdf)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/60cc6359-b5bd-494e-a850-81bc99251b84/linked_in_profile)
+- [Compromising platforms](https://softuni.bg/certificates/details/229903/63f1582e)
+- [Reconnaissance fundamentals](https://softuni.bg/certificates/details/217359/0c620174)
+
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
