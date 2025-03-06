@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Active Directory Lab project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Virtual Domain Controller Lab](https://github.com/tzvetanov1/DC_LAB)
 - <b>Cyber Security Awareness course</b>
   - [Cyber Security Awareness course](https://github.com/tzvetanov1/cyber_awareness_course)
 - <b>PowerShell</b>
